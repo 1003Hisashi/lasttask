@@ -25,16 +25,26 @@ Pass: 2222
 テスト用アカウント等
 
 ・購入者用
+
 メールアドレス: buyer_id@gmail.com
+
 パスワード: buyer_id
+
 購入用カード情報
+
 番号：4242424242424242
+
 期限：01 / 24
+
 セキュリティコード：111
 
+
 ・出品者用
+
 メールアドレス名: seller_id@gmail.com
+
 パスワード: seller_id
+
 
 ・Githubリポジトリ
 https://github.com/1003Hisashi/lasttask
