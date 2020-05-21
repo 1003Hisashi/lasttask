@@ -18,13 +18,17 @@ TECH CAMP エンジニア転職(旧 TECH::EXPERT）　最終課題
 
 ・接続先情報
 URL http://18.180.80.178/
-ID/Pass
+
+ID/Passは下記の通りです。
+
 ID: admin
+
 Pass: 2222
 
-テスト用アカウント等
 
-・購入者用
+・テスト用アカウント等
+
+購入者用
 
 メールアドレス: buyer_id@gmail.com
 
@@ -39,7 +43,7 @@ Pass: 2222
 セキュリティコード：111
 
 
-・出品者用
+出品者用
 
 メールアドレス名: seller_id@gmail.com
 
